@@ -1,0 +1,23 @@
+---
+title: 我的测试文章
+---
+
+**测试加粗** 
+
+*测试斜体*
+
+测试标题
+
+```
+sudo root
+```
+> 自动缩进
+*  list1
+*  list2
+*  list3
+1. list11
+2. list22
+3. list33
+[超级链接](http://github.com)
+![图片](http://assets-cdn.github.com/images/modules/dashboard/newsfeed-mini.png)
+
