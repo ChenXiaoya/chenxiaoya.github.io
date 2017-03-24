@@ -32,4 +32,14 @@ title: MySQL 数据类型
 * DECIMAL(size,d):作为字符串存储的 DOUBLE 类型，允许固定的小数点。
 *  这些整数类型拥有额外的选项 UNSIGNED。通常，整数可以是负数或正数。如果添加 UNSIGNED 属性，那么范围将从 0 开始，而不是某个负数。**
 
-
+**Data类型：**
+<table>
+  <tr>
+    <th>函数</th>
+    <th>描述</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table>
