@@ -8,16 +8,16 @@ categories: jekyll
 
 <h1>SQL:结构化查询语言（Structured Query Language）</h1>
 
-SQL分为两个部分：数据操作语言 (DML)、数据定义语言 (DDL)。
+一、SQL分为两个部分：数据操作语言 (DML)、数据定义语言 (DDL)。
 
-#数据操作语言 (DML)：查询和更新
+1.数据操作语言 (DML)：查询和更新
 
 * SELECT - 从数据库表中获取数据
 * UPDATE - 更新数据库表中的数据
 * DELETE - 从数据库表中删除数据
 * INSERT INTO - 向数据库表中插入数据
 
-#数据定义语言 (DDL)： 创建或删除表格、定义索引（键）、规定表之间的链接、以及施加表间的约束。
+2.数据定义语言 (DDL)： 创建或删除表格、定义索引（键）、规定表之间的链接、以及施加表间的约束。
 
 * CREATE DATABASE - 创建新数据库
 * ALTER DATABASE - 修改数据库
