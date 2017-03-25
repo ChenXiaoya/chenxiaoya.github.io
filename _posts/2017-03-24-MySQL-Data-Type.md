@@ -22,7 +22,7 @@ categories: mysql
 | ENUM(x,y,z,etc.) | 允许你输入可能值的列表。可以在 ENUM 列表中列出最大 65535 个值。            |
 | SET              | 与 ENUM 类似，SET 最多只能包含 64 个列表项，不过 SET 可存储一个以上的值。   |
 
-
+<br>
 **二、Number 类型：**
 
 | 类型             | 描述                                                              |
@@ -36,7 +36,7 @@ categories: mysql
 | DOUBLE(size,d)  | 带有浮动小数点的大数字。在括号中规定最大位数。在 d 参数中规定小数点右侧的最大位数。|
 | DECIMAL(size,d) | 作为字符串存储的 DOUBLE 类型，允许固定的小数点。这些整数类型拥有额外的选项 UNSIGNED。通常，整数可以是负数或正数。如果添加 UNSIGNED 属性，那么范围将从 0 开始，而不是某个负数。|
 
-
+<br>
 **三、Data类型：**
 
 | 类型              | 描述                         |
