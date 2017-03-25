@@ -1,5 +1,8 @@
 ---
 title: 我的测试文章
+layout: post
+date: '2017-03-25 15:49:12 +0800'
+categories:
 ---
 
 **测试加粗** 
@@ -20,4 +23,3 @@ sudo root
 3. list33
 [超级链接](http://github.com)
 ![图片](http://assets-cdn.github.com/images/modules/dashboard/newsfeed-mini.png)
-

@@ -1,5 +1,8 @@
 ---
 title: SQL基础
+layout: post
+date: '2017-03-25 15:49:12 +0800'
+categories: mysql
 ---
 
 一、创建数据库

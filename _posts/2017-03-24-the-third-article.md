@@ -1,5 +1,8 @@
 ---
-title: MySQL 数据类型
+title: MySQL数据类型
+layout: post
+date: '2017-03-25 15:49:12 +0800'
+categories: mysql
 ---
 
 在 MySQL 中，有三种主要的类型：文本、数字和日期/时间类型。
