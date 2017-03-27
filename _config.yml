@@ -8,7 +8,6 @@ url: http://chenxiaoya.github.io
 email: chenxiaoyamail@gmail.com
 markdown: kramdown
 theme: minima
-intensedebate_comments: true
 gems:
 - jekyll-feed
 exclude:
