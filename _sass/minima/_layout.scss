@@ -234,4 +234,18 @@
       font-size: 18px;
     }
   }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /*background-color: #f1f1c1;*/
+  }
+  th, td {
+    padding: 5px;
+    //text-align: center;
+  }
+  th {
+    background-color: #828282;
+    color: white;
+  }
 }
